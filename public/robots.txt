@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://malang-konate.vercel.app/sitemap.xml
