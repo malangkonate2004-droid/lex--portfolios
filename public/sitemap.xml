@@ -1,44 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://malang-konate.vercel.app/</loc>
-    <lastmod>2026-11-17</lastmod>
+    <loc>https://malangkonate2004-droid.github.io/lex--portfolios/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://malang-konate.vercel.app/projets/leaksentinel</loc>
-    <lastmod>2026-11-17</lastmod>
+    <loc>https://malangkonate2004-droid.github.io/lex--portfolios/projets/leaksentinel/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://malang-konate.vercel.app/projets/cryptographie-java</loc>
-    <lastmod>2026-11-17</lastmod>
+    <loc>https://malangkonate2004-droid.github.io/lex--portfolios/projets/cryptographie-java/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://malang-konate.vercel.app/projets/deploiement-windows-server</loc>
-    <lastmod>2026-11-17</lastmod>
+    <loc>https://malangkonate2004-droid.github.io/lex--portfolios/projets/deploiement-windows-server/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://malang-konate.vercel.app/projets/contractai</loc>
-    <lastmod>2026-11-17</lastmod>
+    <loc>https://malangkonate2004-droid.github.io/lex--portfolios/projets/contractai/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://malang-konate.vercel.app/projets/portfolio-cybersecurite-python</loc>
-    <lastmod>2026-11-17</lastmod>
+    <loc>https://malangkonate2004-droid.github.io/lex--portfolios/projets/portfolio-cybersecurite-python/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://malang-konate.vercel.app/projets/nayra-hijab</loc>
-    <lastmod>2026-11-17</lastmod>
+    <loc>https://malangkonate2004-droid.github.io/lex--portfolios/projets/nayra-hijab/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
